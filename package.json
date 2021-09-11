@@ -1,0 +1,19 @@
+{
+  "name": "myacadiaapp_3",
+  "version": "1.0.0",
+  "description": "my first web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francois-sabourin/myAcadiaApp_3.git"
+  },
+  "author": "francois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francois-sabourin/myAcadiaApp_3/issues"
+  },
+  "homepage": "https://github.com/francois-sabourin/myAcadiaApp_3#readme"
+}
